@@ -1,0 +1,20 @@
+{
+    "name": "emiberea/day1-task-no2",
+    "license": "MIT",
+    "type": "project",
+    "description": "Tasks for day1 - task no2",
+    "keywords": ["day1","tasks"],
+    "authors": [
+        {
+            "name": "Emi Berea",
+            "email": "emi.berea@gmail.com",
+            "homepage": "http://students.info.uaic.ro/~vasile.berea/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/symfony": "2.3.*"
+    }
+}
+
